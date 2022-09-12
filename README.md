@@ -67,6 +67,7 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
+```
 int potPin=A5;
 int ledPin= 2;
 
@@ -87,7 +88,7 @@ void loop()
   else
     digitalWrite(2, LOW);
 }
- 
+ ```
 
 
 
