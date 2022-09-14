@@ -98,19 +98,20 @@ void loop()
 
 
 
-**
-**Simulation output:** 
+### Simulation output:
 ![ex2](https://user-images.githubusercontent.com/94165377/189676864-39f10e0e-062b-4d68-93ee-6d5cc406de2b.PNG)
 
-**
-
-
-[My image](username.github.com/repository/img/image.jpg)
 
 
 
 
 
+![serial moniter](https://user-images.githubusercontent.com/94165377/190158308-9381ad9f-3be6-4e95-9cc7-d19a12ecbd57.PNG)
 
 
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+
+
+
+
+### RESULT:
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
